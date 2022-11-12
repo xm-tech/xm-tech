@@ -9,6 +9,7 @@
 | Lua | master |
 | Shell & awk | master |
 | Rust | hobby |
+| Vim | master |
 
 ## Contact Me
 
