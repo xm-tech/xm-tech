@@ -2,7 +2,7 @@
 
 ## About Me
 
-| ```Go``` | ```C```| ```Shell``` | ```Lua``` | ```Rust``` | ```Vim``` |
+| **Go** | **C** | **Shell** | **Lua** | **Rust** | **Vim** |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | master | master | master | master | hobby | master |
 
