@@ -3,12 +3,13 @@
 ## About Me
 
 Main intrests:
-
-- go
-- c
-- lua
-- shell
-- rust
+| skill | level |
+| ---- | ---- |
+| go | master |
+| c  | master |
+| lua | familiar |
+| shell & awk | master |
+| rust | familiar |
 
 ## Contact Me
 
