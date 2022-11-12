@@ -2,14 +2,13 @@
 
 ## About Me
 
-Main intrests:
-| skill | level |
+| Skill | Level |
 | ---- | ---- |
-| go | master |
-| c  | master |
-| lua | familiar |
-| shell & awk | master |
-| rust | familiar |
+| Go | master |
+| C  | master |
+| Lua | master |
+| Shell & awk | master |
+| Rust | hobby |
 
 ## Contact Me
 
