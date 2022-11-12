@@ -2,14 +2,9 @@
 
 ## About Me
 
-| Skill | Level |
-| ---- | ---- |
-| Go | master |
-| C  | master |
-| Lua | master |
-| Shell & awk | master |
-| Rust | hobby |
-| Vim | master |
+| ```Go``` | ```C```| ```Shell``` | ```lUA``` | ```Rust``` | ```Vim``` |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| master | master | master | master | hobby | master |
 
 ## Contact Me
 
